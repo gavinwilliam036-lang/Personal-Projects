@@ -193,5 +193,5 @@ elif mode == '3':
             print(f'\n>>> PREDICTED SSPL: {prototype_prediction:.4f} dB <<<')
 else :
     print('\nType better dude')
-    print('F# You!') # (FANTASTIC)
+    print('You got an F!') # (FANTASTIC)
     exit()
